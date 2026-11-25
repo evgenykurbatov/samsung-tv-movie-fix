@@ -1,0 +1,21 @@
+# media and subtitle files never belong in the repo
+*.avi
+*.mkv
+*.mp4
+*.m4v
+*.mov
+*.ts
+*.m2ts
+*.webm
+*.wmv
+*.srt
+*.ass
+*.ssa
+*.ac3
+*.h264
+# work products
+*.pk.csv
+verify_*/
+_tv_test/
+__pycache__/
+*.pyc
